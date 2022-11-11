@@ -1,0 +1,8 @@
+﻿  C_and_Asm.cpp
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(3,9): warning C4081: требуется "идентификатор"; обнаружен "inline"
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(12,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(12,7): error C2065: mov: необъявленный идентификатор
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(12,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ax"
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(12,11): error C2065: ax: необъявленный идентификатор
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(13,2): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "printf"

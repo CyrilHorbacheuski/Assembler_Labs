@@ -1,0 +1,6 @@
+﻿  C_and_Asm.cpp
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(3,9): warning C4081: требуется "идентификатор"; обнаружен "inline"
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(20,16): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(38,1): warning C4102: maxEl: неиспользованная метка
+D:\documents\Assembler\lab_6\C_and_Asm\C_and_Asm.cpp(50,4): warning C4102: mol: неиспользованная метка
+  C_and_Asm.vcxproj -> D:\documents\Assembler\lab_6\Debug\C_and_Asm.exe
